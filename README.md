@@ -3,7 +3,7 @@ Microsoft Assembly in Visual Studio
 this program does a loop until eax > 5 then sets value to 33 in hex
 
 Open Visual Studio
-Open project file
+Open project file MASM.sln
 
 Check if lines 35 & 36 have break points
 Run Debugger(Windows Local Debugger)
